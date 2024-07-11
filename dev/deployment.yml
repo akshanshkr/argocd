@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: akshanshkr/node:02
+        image: httpd
         ports:
         - containerPort: 80
